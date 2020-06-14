@@ -1,2 +1,2 @@
-# micro-manjaro\
+# micro-manjaro
 *aarch64 version*
