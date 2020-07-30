@@ -1,7 +1,7 @@
 # Maintainer: Eric Lay <ericlaytm@gmail.com>
 
 pkgname=micro-manjaro
-pkgver=2.0.4
+pkgver=2.0.6
 pkgrel=1
 pkgdesc="A modern and intuitive terminal-based text editor"
 arch=('aarch64')
